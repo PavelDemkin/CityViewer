@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Cities>
+  <City>
+	<Name>Новосибирск</Name>
+    <Region>54</Region>
+    <Population>1,511 млн</Population>
+  </City>
+  <City>
+	<Name>Челябинск</Name>
+    <Region>74</Region>
+    <Population>1,15 млн</Population>
+  </City>
+  <City>
+	<Name>Самара</Name>
+    <Region>63</Region>
+    <Population>1,17 млн</Population>
+  </City>
+</Cities>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityViewer", "CityViewer\CityViewer.csproj", "{49CE86B1-BEE8-4463-BD73-3385A36E1B73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49CE86B1-BEE8-4463-BD73-3385A36E1B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CE86B1-BEE8-4463-BD73-3385A36E1B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CE86B1-BEE8-4463-BD73-3385A36E1B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CE86B1-BEE8-4463-BD73-3385A36E1B73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC6F5B06-67F9-4359-9381-1E4D0C1A1871}
+	EndGlobalSection
+EndGlobal

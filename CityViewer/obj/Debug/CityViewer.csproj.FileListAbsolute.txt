@@ -1,0 +1,14 @@
+C:\Users\я\source\repos\CityViewer\CityViewer\bin\Debug\CityViewer.exe.config
+C:\Users\я\source\repos\CityViewer\CityViewer\bin\Debug\CityViewer.exe
+C:\Users\я\source\repos\CityViewer\CityViewer\bin\Debug\CityViewer.pdb
+C:\Users\я\source\repos\CityViewer\CityViewer\obj\Debug\CityViewer.csprojAssemblyReference.cache
+C:\Users\я\source\repos\CityViewer\CityViewer\obj\Debug\MainWindow.baml
+C:\Users\я\source\repos\CityViewer\CityViewer\obj\Debug\MainWindow.g.cs
+C:\Users\я\source\repos\CityViewer\CityViewer\obj\Debug\App.g.cs
+C:\Users\я\source\repos\CityViewer\CityViewer\obj\Debug\CityViewer_MarkupCompile.cache
+C:\Users\я\source\repos\CityViewer\CityViewer\obj\Debug\CityViewer.g.resources
+C:\Users\я\source\repos\CityViewer\CityViewer\obj\Debug\CityViewer.Properties.Resources.resources
+C:\Users\я\source\repos\CityViewer\CityViewer\obj\Debug\CityViewer.csproj.GenerateResource.cache
+C:\Users\я\source\repos\CityViewer\CityViewer\obj\Debug\CityViewer.csproj.CoreCompileInputs.cache
+C:\Users\я\source\repos\CityViewer\CityViewer\obj\Debug\CityViewer.exe
+C:\Users\я\source\repos\CityViewer\CityViewer\obj\Debug\CityViewer.pdb
